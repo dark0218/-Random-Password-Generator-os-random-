@@ -17,14 +17,9 @@ A Python-based GUI application to generate secure and customizable passwords. Th
 
 This program uses Python 3.x and requires the `pyperclip` library.
 
-### Dependency Installation
-
-Install the dependency library with pip:
-```bash
-pip install pyperclip
-
-sample images of worrking-
+sample images of working -
 
 ![Screenshot 2024-11-22 233757](https://github.com/user-attachments/assets/28e67802-be56-4512-837e-68865dbe7b77)
 ![Screenshot 2024-11-22 233814](https://github.com/user-attachments/assets/d46d41a3-47b0-48b9-a46c-206354682496)
 ![Screenshot 2024-11-22 233827](https://github.com/user-attachments/assets/24b50449-fb2d-4a84-904b-1414e5afb89e)
+
